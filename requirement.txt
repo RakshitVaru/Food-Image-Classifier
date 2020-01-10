@@ -1,0 +1,5 @@
+numpy
+scipy
+tensorflow==1.4.0
+keras
+django==1.10
